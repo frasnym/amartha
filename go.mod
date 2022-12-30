@@ -1,4 +1,4 @@
-module github.com/frasnym/amartha/find-path-between-2-dots
+module github.com/frasnym/amartha/dna
 
 go 1.17
 
